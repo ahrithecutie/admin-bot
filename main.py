@@ -1,6 +1,6 @@
 from config import DISCORD_TOKEN
 from bot import PickMe
-from models import Role
+# from models import Role
 
 # from db_connector import cur
 # from models import Role
